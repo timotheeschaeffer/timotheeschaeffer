@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi, I'm Timothée 👋
 <!--
 **timotheeschaeffer/timotheeschaeffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a theoretical astrophysicist and developer of [BEoRN](https://github.com/cosmic-reionization/BEoRN), a simulation tool for cosmic reionization.
+
+- 🧠 Python expert, data scientist, and numerical modeler
+- 🚀 Currently pivoting into finance and tech
+- 🌍 Based in Zurich and Paris.
+
+### Featured Projects
+- 🔭 [BEoRN](https://github.com/cosmic-reionization/BEoRN): Main developer
